@@ -8,15 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webyangmx/FIRGame.git"
+    "url": "git+https://github.com/bdbai/FIRGame.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/webyangmx/FIRGame/issues"
+    "url": "https://github.com/bdbai/FIRGame/issues"
   },
-  "homepage": "https://github.com/webyangmx/FIRGame#readme",
+  "homepage": "https://github.com/bdbai/FIRGame#readme",
   "dependencies": {
+    "express": "^4.14.0",
     "socket.io": "^1.4.8"
   }
 }
